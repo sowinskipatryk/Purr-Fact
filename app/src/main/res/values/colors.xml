@@ -10,5 +10,6 @@
     <color name="button">#FFFFFFFF</color>
     <color name="text_view">#FFFFFFFF</color>
     <color name="background">#0a855e</color>
-    <color name="text_button">#07513A</color>
+    <color name="text_button">#004D40</color>
+    <color name="status_bar">#053828</color>
 </resources>

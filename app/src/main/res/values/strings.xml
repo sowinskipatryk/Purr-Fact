@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">MyMysteriousCat</string>
+    <string name="fun_fact">Click on the paw to get a fun fact about your kitty</string>
+    <string name="button">Button</string>
 </resources>
