@@ -1,4 +1,4 @@
-package com.example.mymysteriouscat
+package com.example.purrfact
 
 import android.os.Bundle
 import android.os.Handler
@@ -60,7 +60,7 @@ class MainActivity : AppCompatActivity() {
                         val jsonObject = JSONObject(jsonString)
                         val data = jsonObject.getString("fact")
                         val length = jsonObject.getString("length")
-                        if (length.toInt() <= 250) {
+                        if (length.toInt() <= 230) {
                             funFactTextView.setText(data)
                         } else {
                             run(url)

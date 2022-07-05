@@ -1,4 +1,4 @@
-package com.example.mymysteriouscat
+package com.example.purrfact
 
 import org.junit.Test
 
